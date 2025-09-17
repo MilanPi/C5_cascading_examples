@@ -1,0 +1,14 @@
+{
+  "traits": [
+    {
+      "id": "77e676e0-90d0-4144-bd91-aaaed73a70a0",
+      "name": "application",
+      "files": [
+        "C562_GPIO_test.csolution.yml"
+      ]
+    }
+  ],
+  "children": [
+    "NUCLEO-C562RE_project/NUCLEO-C562RE_project.hw"
+  ]
+}

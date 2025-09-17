@@ -1,0 +1,12 @@
+{
+  "traits": [
+    {
+      "id": "7a4990aa-a43d-4579-be53-6ee6ed4b3003",
+      "name": "component",
+      "files": [
+        "C562_GPIO_test_SW.cproject.yml"
+      ]
+    }
+  ],
+  "children": []
+}
