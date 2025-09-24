@@ -102,3 +102,5 @@ Follow these steps:
 1. Hit the blue **play/pause button** on the small **debug bar** to run the application. You should observe blinking LED LD1 on the Nucleo board.
 2. [Optional step]: Put the **breakpoint** on some line in the while(1) loop. Application will hit that **breakpoint**. **Run** or **Step** the application using **debug bar**.
 3. Terminate the debug session by clicking orange square **Stop button** on **debug bar**. 
+
+[<< back to main menu](../README.md)

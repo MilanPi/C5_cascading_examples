@@ -16,6 +16,8 @@ Prerequisites:
 
 ## Create a new project
 
+See the [GPIO example - create a new project](../C562_GPIO_test/readme.md#create-a-new-project)
+
 Just a reminder to put a the same name of the project in the root folder name (**Project location**).
 
 ![MX2_prj_name](imgs/MX2_prj_name.png)
@@ -53,13 +55,15 @@ This is the default setting which is used:
 
 ## Generate a project
 
+See the [GPIO example - generate a project](../C562_GPIO_test/readme.md#generate-a-project)
+
 Just a reminder to select CMake project. See the GPIO example.
 
 ![MX2_prj_name](imgs/MX2_CMake.png)
 
 ## Open project in the VSCode
 
-See the GPIO example.
+See the [GPIO example - Open project in the VSCode](../C562_GPIO_test/readme.md#open-project-in-the-vscode)
 
 ## Add the code
 
@@ -161,7 +165,7 @@ void print_char_count(uint8_t _nb, uint8_t _flag)
 
 ## Configure and start debug session
 
-See the GPIO example.
+See the [GPIO example - configure and start debug session](../C562_GPIO_test/readme.md#configure-and-start-debug-session)
 
 ## Run application
 
@@ -183,3 +187,5 @@ Follow these steps:
 8. Now type **some text** in the serial monitor **input line** and press **Enter**. MCU sends back an **echo** of the string sent to the board. 
 
 > Any **white space** will terminate the string (space, LF, CR, tab,...), so, don't be confused if you put some **white space**, send the string and observe **corrupted echo**.
+
+[<< back to main menu](../README.md)
